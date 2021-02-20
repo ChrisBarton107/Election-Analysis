@@ -43,7 +43,8 @@ The analysis of the election show:
     - Jefferson received 10.5% of the vote with 38,855 total votes
  - The county with the largest voter turnout:
     - Denver
-  * Image summary of candidate and county outcomes: https://github.com/ChrisBarton107/Election-Analysis/blob/main/Resources/PyPoll_Challenge_Terminal.png?raw=true
+**Image summary of candidate and county outcomes**<br> 
+<img src= "https://github.com/ChrisBarton107/Election-Analysis/blob/main/Resources/PyPoll_Challenge_Terminal.png?raw=true" width="1000">
  
 ### Additional
 The code used to conduct the analysis is reusable for future elections but requires modifications if it is to be used properly. Future election data must be assessed prior to the execution of code so modifications can be made. Understanding election data format, including number of columns, information type, and position within the heading require the user to modify the script. Additional modifications are necessary if the user desires results not gathered from the current script.
